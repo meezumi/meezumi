@@ -1,15 +1,13 @@
-<h1 align="center">heydo, aaryan here...</h1>
+<h1 align="center">heydo, aaryan here</h1>
 <h3 align="center">an aspiring programmer</h3>
 
-- 🔭 I’m currently working on **Front-End Web Dev and cpp**
+- 🌱 **currently learning**: flutter/dart, DSA and back-end
 
-- 🌱 I’m currently learning **cpp ,css ,bootstrap ,javascript**
+- 👀 **interested in**: web dev, app dev, cp, ml/ai and making games
 
-- 👀 I'm interested in **web dev ,app dev ,ml/ai and making games**
+- 📫 email me: **aaryank098@gmail.com**
 
-- 📫 How to reach me **aaryank098@gmail.com**
-
-- ⚡ Fun fact **a melophile and not just any miyamuma fanboi.**
+- ⚡ a melophile and not just any **miyamura fanboi**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
