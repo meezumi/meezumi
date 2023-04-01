@@ -1,4 +1,4 @@
-<h1 align="center">heydo, aaryan here</h1>
+<h1 align="center">heydo, im aaryan</h1>
 <h3 align="center">an aspiring programmer</h3>
 
 - 🌱 **currently learning**: flutter/dart, DSA and back-end
