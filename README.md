@@ -1,5 +1,5 @@
-<h1 align="center">Heydo, I'm Aaryan</h1>
-<h3 align="center">An aspiring programmer</h3>
+<h1 align="center">heydo, aaryan here...</h1>
+<h3 align="center">an aspiring programmer</h3>
 
 - 🔭 I’m currently working on **Front-End Web Dev and cpp**
 
@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **aaryank098@gmail.com**
 
-- ⚡ Fun fact **I'm a man of culture , gamer , love to draw and a melophile.**
+- ⚡ Fun fact **a melophile and not just any miyamuma fanboi.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
