@@ -1,5 +1,5 @@
 <h1 align="center">heydo, im aaryan</h1>
-<h3 align="center">an aspiring programmer</h3>
+<h3 align="center">a digital craftsman</h3>
 
 - 🌱 **currently learning**: flutter/dart, DSA and back-end
 
