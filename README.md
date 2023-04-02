@@ -2,6 +2,12 @@
 
 ###
 
+<br clear="both">
+
+<img src="https://github.com/meezumi/meezumi/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+
+###
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=meezumi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&custom_title=stats" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=meezumi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&custom_title=languages" height="150" alt="languages graph"  />
@@ -40,8 +46,4 @@
 
 ###
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/meezumi/meezumi/blob/output/snake.svg" alt="Snake animation" />
-
-###
