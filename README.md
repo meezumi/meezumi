@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">help me feed amblyoo (yeah thats his name...her, umm their?..idk)</p> 
+<p align="left">help me feed amblyoo</p> 
 
 <img src="https://github.com/meezumi/meezumi/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
