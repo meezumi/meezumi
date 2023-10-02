@@ -4,6 +4,7 @@
 
 <p align="left">help me feed amblyoo</p> 
 
+![Snake animation](https://github.com/meezumi/meezumi/blob/output/github-contribution-grid-snake.svg)
 <!-- <img src="https://github.com/meezumi/meezumi/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" /> -->
 
 ###
