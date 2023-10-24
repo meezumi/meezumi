@@ -2,9 +2,9 @@
 
 ###
 
-<p align="left">help me feed amblyoo</p> 
+<p align="left">help me feed amblyoo :D </p> 
 
-![Snake animation](https://github.com/meezumi/meezumi/blob/output/github-contribution-grid-snake.svg)
+<!-- ![Snake animation](https://github.com/meezumi/meezumi/blob/output/github-contribution-grid-snake.svg) -->
 <!-- <img src="https://github.com/meezumi/meezumi/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" /> -->
 
 ###
@@ -40,7 +40,7 @@
 ###
 
 <div align="left">
-<a href="https://www.instagram.com/aark.ehe/"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+<a href="https://www.instagram.com/aar._ryan/"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
 <a href="https://www.twitch.tv/meezumi"><img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
 <a href="https://discord.gg/Sehh7NmA"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
 <a href="aaryank3000@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
