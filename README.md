@@ -6,6 +6,7 @@
 
 <!-- ![Snake animation](https://github.com/meezumi/meezumi/blob/output/github-contribution-grid-snake.svg) -->
 <!-- <img src="https://github.com/meezumi/meezumi/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" /> -->
+<img src="https://raw.githubusercontent.com/meezumi/meezumi/output/snake.svg" alt="Snake animation" /> 
 
 ###
 
