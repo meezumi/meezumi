@@ -15,7 +15,7 @@
 
 ###
 
-<img align="right" height="155" src="https://i.pinimg.com/originals/43/e3/c3/43e3c38af840ff122754f14731f5cc17.gif"  />
+<!-- <img align="right" height="155" src="https://i.pinimg.com/originals/43/e3/c3/43e3c38af840ff122754f14731f5cc17.gif"  /> -->
 
 ###
 
