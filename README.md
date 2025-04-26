@@ -1,4 +1,4 @@
-<h3 align="left">heydo im aaryan, a digital craftsman</h3>
+<h3 align="left">hey, i'm aaryan, a digital craftsman</h3>
 
 ###
 
