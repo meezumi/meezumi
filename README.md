@@ -91,6 +91,7 @@
 
 ###
 
+<h3 align="left"> connect for fun projects or anything </h3>
 <div align="left">
 <a href="https://www.instagram.com/anotheraaryann/"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
 <a href="https://www.twitch.tv/meezumi"><img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
