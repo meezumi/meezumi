@@ -17,9 +17,9 @@
 ###
 
 <div align="left">
-    <img src="https://ghstats.dev/api/card?username=meezumi&theme=ayu&hide_border=true&hide_title=true&hide=hours%2Ctrend%2Cavg%2Cactive_day%2Crepos%2Cfollowers%2Cgrade%2Cweek%2Cstars" alt="GitHub Stats Card" />
-    <img src="https://ghstats.dev/api/langs?username=meezumi&theme=ayu&hide_border=true&layout=horizontal_list" alt="Top Languages" />
-</div> 
+  <img src="https://ghstats.dev/api/card?username=meezumi&theme=ayu&hide_border=true&hide_title=true&hide=hours%2Ctrend%2Cavg%2Cactive_day%2Crepos%2Cfollowers%2Cgrade%2Cweek%2Cstars" alt="GitHub Stats Card" width="400" />
+  <img src="https://ghstats.dev/api/langs?username=meezumi&theme=ayu&hide_border=true&layout=horizontal_list" alt="Top Languages" width="400" />
+</div>
 
 ###
 
