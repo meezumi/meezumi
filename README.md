@@ -16,9 +16,9 @@
 
 ###
 
-<!-- <div align="left">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=meezumi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true&custom_title=stats" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=meezumi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true&custom_title=languages" height="150" alt="languages graph"  />
+<div align="left">
+    <img src="https://ghstats.dev/api/card?username=meezumi&theme=ayu&hide_border=true&hide_title=true&hide=hours%2Ctrend%2Cavg%2Cactive_day%2Crepos%2Cfollowers%2Cgrade%2Cweek%2Cstars" alt="GitHub Stats Card" />
+    <img src="https://ghstats.dev/api/langs?username=meezumi&theme=ayu&hide_border=true&layout=horizontal_list" alt="Top Languages" />
 </div> 
 
 ###
