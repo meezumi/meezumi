@@ -30,22 +30,22 @@
   <img src="https://cdn.simpleicons.org/kubernetes/326CE5" height="40" alt="kubernetes logo" />&nbsp;
   <img src="https://cdn.simpleicons.org/typescript/3178C6" height="40" alt="typescript logo" />&nbsp;
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="javascript logo" />&nbsp;
-  <img src="https://cdn.simpleicons.org/c++/00599C" height="40" alt="cplusplus logo" />&nbsp;
-  <img src="https://cdn.simpleicons.org/python/3776AB" height="40" alt="python logo" />&nbsp;
+  <!-- <img src="https://cdn.simpleicons.org/c++/00599C" height="40" alt="cplusplus logo" />&nbsp; -->
+  <!-- <img src="https://cdn.simpleicons.org/python/3776AB" height="40" alt="python logo" />&nbsp; -->
   <img src="https://cdn.simpleicons.org/rust/CE422B" height="40" alt="rust logo" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo" />&nbsp;
+  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo" />&nbsp; -->
   <img src="https://cdn.simpleicons.org/react/61DAFB" height="40" alt="react logo" />&nbsp;
-  <img src="https://cdn.simpleicons.org/supabase/3ECF8E" height="40" alt="supabase logo" />&nbsp;
+  <!-- <img src="https://cdn.simpleicons.org/supabase/3ECF8E" height="40" alt="supabase logo" />&nbsp; -->
   <img src="https://cdn.simpleicons.org/redis/DC382D" height="40" alt="redis logo" />&nbsp;
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo" />&nbsp;
-  <img src="https://cdn.simpleicons.org/appwrite/F02E65" height="40" alt="appwrite logo" />&nbsp;
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="nodejs logo" />&nbsp;
+  <img src="https://cdn.simpleicons.org/figma/F24E1E" height="40" alt="figma logo" />&nbsp;
+  <!-- <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo" />&nbsp; -->
+  <!-- <img src="https://cdn.simpleicons.org/appwrite/F02E65" height="40" alt="appwrite logo" />&nbsp; -->
+  <!-- <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="nodejs logo" />&nbsp; -->
   <img src="https://cdn.simpleicons.org/nginx/009639" height="40" alt="nginx logo" />&nbsp;
-  <img src="https://cdn.simpleicons.org/npm/CB3837" height="40" alt="npm logo" />&nbsp;
+  <!-- <img src="https://cdn.simpleicons.org/npm/CB3837" height="40" alt="npm logo" />&nbsp; -->
   <img src="https://skillicons.dev/icons?i=pr" height="40" alt="adobepremierepro logo" />&nbsp;
   <img src="https://skillicons.dev/icons?i=ae" height="40" alt="adobeaftereffects logo" />&nbsp;
-  <img src="https://cdn.simpleicons.org/figma/F24E1E" height="40" alt="figma logo" />
 </div>
 
 ###
